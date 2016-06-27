@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: be.davidy.SubjectTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.001 sec <<< FAILURE! - in be.davidy.SubjectTest
+initializationError(be.davidy.SubjectTest)  Time elapsed: 0.001 sec  <<< ERROR!
+java.lang.Exception: The class be.davidy.SubjectTest is not public.
+
+initializationError(be.davidy.SubjectTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.Exception: Test class should have exactly one public constructor
+
